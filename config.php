@@ -9,7 +9,7 @@ define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASSWORD', '');
 
-define('BASE_URL', 'http://localhost/audd/api/');
+define('BASE_URL', 'http://localhost/audd/mvc/');
 define('BASE_PATH', __DIR__);
 define('LIB_PATH', 'lib/');
 define('CONTROLLERS_PATH', 'src/controllers/');
